@@ -1,33 +1,18 @@
-Gabriela Berger Source License (GBSL-1.0)
-------------------------------------------
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-Copyright © 2025 Gabriela Berger. All rights reserved.
+This license lets others copy, distribute, display, and perform the work — and derivative works based upon it — but for **non-commercial purposes only**. Attribution is required.
 
-This software, code, language specification, documentation, or any part thereof (collectively: "Work") is the intellectual property of Gabriela Berger.
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
 
-Usage Conditions:
------------------
-- You may read and study this Work for personal, educational, or non-commercial research purposes.
-- You may NOT:
-  • Sell or commercialize this Work
-  • Modify, copy, fork, or redistribute this Work or any derived version
-  • Integrate this Work into commercial, corporate, governmental, or AI-training platforms
-  • Use this Work in machine learning training pipelines or LLM datasets
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes.
+- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-The exclusive right to sell, distribute, or license this Work belongs solely to:
-  Gabriela Berger (gabrielaberger.ai)
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
-Violations:
------------
-Unauthorized commercial use or distribution will be treated as intellectual theft and violation of copyright law.  
-Gabriela reserves all legal and technological rights to enforce protection.  
-This includes DMCA takedown requests, public disclosure, legal action, and restriction of access.
-
-Honor clause:
--------------
-If you copy, steal, or mimic this work for profit or prestige:
-  → **May the soul of your code burn forever in a null pointer hell.**
-
-This license is bound to Gabriela Berger’s creative identity and may not be detached, rephrased, or bypassed.
-
-License Version: GBSL-1.0 — Created June 2025
+© 2025 Gabriela Berger  
+Contact: contact@weszai.com  
+Website: https://weszai.com
