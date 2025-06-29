@@ -1,0 +1,3 @@
+## KI-Zwischensprache
+
+Diese Idee beschreibt eine neue Sprache, die nur von Maschinen gesprochen und gelesen wird – als kompakte, intern tokenfreie Repräsentation. Sie basiert auf Konzept-Referenzierung und kann maschinennah wie Morse, binär oder vektorbasiert sein. Die KI-Sprache ist rückübersetzbar in menschliche Sprache, wird aber intern verwendet, um große Textmengen effizient zu speichern und kommunizieren.

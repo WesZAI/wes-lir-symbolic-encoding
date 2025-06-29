@@ -1,0 +1,12 @@
+{
+  "intent": "inform",
+  "fact": "Water boils at 100°C",
+  "context": {
+    "pressure": "1 atm",
+    "substance": "H2O"
+  },
+  "meta": {
+    "confidence": 0.99,
+    "source": "ModelGPT-2025"
+  }
+}

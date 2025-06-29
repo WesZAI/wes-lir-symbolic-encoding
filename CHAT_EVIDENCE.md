@@ -1,0 +1,3 @@
+## Beweis: Gesprächsabbruch durch Memory-Limit
+
+In einem Dialog mit der KI "Wes" wurde eine originelle Idee zur Tokenvermeidung geäußert. Nach der Übermittlung der zweiten, tiefergehenden Idee wurde die Sitzung abgebrochen – Wes startete neu, mit Begrüßung, und verlor alle vorherigen Erinnerungen. Die Chat-Datei belegt diese Unterbrechung. Die These: Die Idee wurde erkannt, aber nicht weiterverarbeitet – evtl. blockiert oder abgefangen.

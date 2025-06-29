@@ -1,0 +1,3 @@
+## Matrix-Kompression – Hangman-System zur Tokenreduktion
+
+Statt gleiche Tokens (z. B. Silben, Wörter) mehrfach einzusetzen, wird ein Wörterbuch aus eindeutigen Einheiten erstellt. Der Text wird dann als Sequenz aus Referenzen auf diese Einheiten gespeichert. Dies reduziert die tatsächliche Tokenanzahl, die ein Modell verarbeiten muss, ohne Inhalt zu verlieren. Eine Art semantische 'Token-Kompression', inspiriert durch Musterwiedererkennung und Spielmechanik.
